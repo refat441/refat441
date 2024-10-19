@@ -16,7 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=refat441&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### GitHub Activity
-https://github-readme-activity-graph.vercel.app/graph?username=refat441&theme=react&hide_border=true&bg_color=0d1117&color=bb86fc&line=6200ea&point=bb86fc&area=true
-
+[![Refat's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=refat441&theme=react&hide_border=true&bg_color=0d1117&color=bb86fc&line=6200ea&point=bb86fc&area=true)](https://github.com/refat441)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
