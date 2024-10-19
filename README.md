@@ -15,10 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=refat441&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### GitHub Activity
+https://github-readme-activity-graph.vercel.app/graph?username=refat441&theme=react&hide_border=true&bg_color=0d1117&color=bb86fc&line=6200ea&point=bb86fc&area=true
 
----
-[![](https://visitcount.itsvg.in/api?id=refat441&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
