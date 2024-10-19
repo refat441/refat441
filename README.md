@@ -1,5 +1,5 @@
 # 💫 About Me:    
-🔭 I’m currently working on Qibla project <br>👯 I’m looking to collaborate on MERN project<br>🌱 I’m currently learning Node.js & Express.js <br>⚡ Fun fact: I keep night shift switched on at all times 
+🔭 I’m currently working on Qibla project <br>👯 I’m looking to collaborate on MERN project<br>🌱 I’m currently learning Node.js & Express.js <br>⚡ Fun fact: I keep the night shift switched on at all times 
 
 
 ## 🌐 Socials:
@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=refat441&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### GitHub Activity
-[![Refat's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Nakib00&theme=react&hide_border=true&bg_color=0d1117&color=bb86fc&line=6200ea&point=bb86fc&area=true)](https://github.com/refat441)
+[![Refat's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=refat441&theme=react&hide_border=true&bg_color=0d1117&color=bb86fc&line=6200ea&point=bb86fc&area=true)](https://github.com/refat441)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
